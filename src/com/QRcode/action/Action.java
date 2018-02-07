@@ -17,7 +17,7 @@ import com.google.zxing.WriterException;
 public class Action extends DispatchAction{
 	public static void main(String[] args) {
 	    String content="https://fedemo.top";
-		String logUri="D:\\timg.jpg";
+		String logUri="D:\\favicon.ico";
 		String outFileUri="D:\\img.jpg";
 		int[]  size=new int[]{430,430};
 		String format = "jpg";  
