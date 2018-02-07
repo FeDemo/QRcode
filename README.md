@@ -1,7 +1,7 @@
 # zxing_demo
 
->基于zxing的二维码demo
-
+>基于zxing的二维码demo   
+>zxing项目地址:[https://github.com/zxing/zxing](https://github.com/zxing/zxing)
 ### 本地生产二维码图片
 
 ```
